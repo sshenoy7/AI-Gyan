@@ -1,4 +1,4 @@
-Following are the courses that I've learned a lot from. They are pretty concise and hands-on as well:
+Following are the courses that I've found very useful. They are pretty concise and hands-on as well:
 
 - [DeepLearning.ai] Prompt Engineer with Llama 2
   - https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction

@@ -1,0 +1,23 @@
+Following are some of the tools/frameworks i've used (will categorize them and add a description soon!!)
+
+- tavily
+- duckduckgo
+- serper
+- beautifulsoup
+- scrapeops
+- anthropic
+- groq
+- openai
+- langchain
+- langgraph
+- langsmith
+- exa
+- supabase
+- crewai
+- llmstudio
+- anythingllm
+- streamlit
+- chainlit
+- gradio
+- FAISS
+- ChromaDB

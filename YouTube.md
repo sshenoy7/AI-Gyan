@@ -7,7 +7,9 @@ Following are some of the content I learned a lot from from YouTube:
 - Illustrative guide to Transformers
   - https://youtu.be/4Bdc55j80l8?si=lDbWaqwrbW2n9O8B
 - Transformer Neural Network Explained
-  - https://youtu.be/zxQyTK8quyY?si=k_FlMVOCk6Ver70I 
+  - https://youtu.be/zxQyTK8quyY?si=k_FlMVOCk6Ver70I
+- Neural Networks and Transformer Architecture
+  - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 # Hands-on:
 - Creating an LLM from scratch
@@ -19,6 +21,12 @@ Following are some of the content I learned a lot from from YouTube:
   - https://youtu.be/dXxQ0LR-3Hg?si=kWAzLxVDxwYIG1JJ
 - Hugging Face Crash Course
   - https://youtu.be/GSt00_-0ncQ?si=wnFbgIL8E79yw20P
+- LangChain - Conversations with memory
+  - https://www.youtube.com/watch?v=X550Zbz_ROE&t=504s
+- LangGraph courses
+  - https://www.youtube.com/watch?v=5h-JBkySK34&list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg
+- CrewAI step-by-step
+  - https://youtu.be/kBXYFaZ0EN0?si=ywYsFu9h71ppLdRx
  
 
 # Good Watch
@@ -27,10 +35,11 @@ Following are some of the content I learned a lot from from YouTube:
 - MIT Introduction to Deep Learning
   - https://youtu.be/QDX-1M5Nj7s?si=uCkb3s2GbfL-9qBC
 - The Turing Lectures: Future of Generative AI
-  - https://youtu.be/2kSl0xkq2lM?si=AqtM0coYY-Uls9zt
+  - https://youtu.be/2kSl0xkq2lM?si=AqtM0coYY-Uls9zt 
 
 
 ## Channels you can subscribe for good content on AI:
+- https://www.youtube.com/c/3blue1brown
 - https://www.youtube.com/@alejandro_ao
 - https://www.youtube.com/@freecodecamp
 - https://www.youtube.com/@umarjamilai
